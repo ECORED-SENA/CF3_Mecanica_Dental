@@ -1,19 +1,260 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto  
+
+.cajon.color-acento-contenido
+  background-color: #C3F1F2
+
+.cajon.color-acento-contenido::before
+  background-color: #13C6CC  
+
+.tarjeta
+  &--azul
+    background-image: url('../assets/curso/temas/img3.png') 
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center  
+
+.ts
+  color: $color-sistema-texto !important
+
+.bg1
+  position: relative
+  .row, figure, p, h3, h5, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 90%       
+    background-image: url('../assets/curso/temas/img8.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top 
+      
+.lista-ul li > i:first-of-type
+  color: #13C6CC
+
+.img-text 
+  position: relative
+  bottom: 3.5rem
+  right: 0  
+  margin: auto
+  border-radius: 0 0 20px 20px 
+  background-color: #06959A
+  *
+    color: white      
+
+
+.bg3
+  background-color:#E7F9FA !important
+  *
+    color: $color-sistema-texto !important
+
+.bg4
+  background-color:#E5F1F8 !important
+  *
+    color: $color-sistema-texto !important    
+
+.li1
+  color: #13C6CC !important     
+
+.li2
+  color: #0273BC !important
+
+.linea-tiempo-d
+  &__item
+    &--selected
+      .linea-tiempo-d
+        &__item
+          &__content
+            background-color: #E5F1F8 !important
+            &__title
+              font-weight: $base-bold-font-weight
+          &__number
+            font-weight: $base-bold-font-weight
+    &__col-number
+      display: flex
+      flex-direction: column
+
+    &__dots
+      flex: 1
+      display: flex
+      justify-content: center
+      padding: 5px 0
+      &:after
+        content: ''
+        display: block
+        width: 0
+        height: 100%
+        border-left: 5px dotted $color-sistema-e
+    &__number
+      display: flex
+      align-items: center
+      justify-content: center
+      min-width: 40px
+      height: 40px
+      cursor: pointer
+      transition: background-color .3s ease-in-out, color .3s ease-in-out
+    &__content
+      background-color: #F6F6F6 !important     
+      &__title
+        display: flex
+        align-items: center
+        height: 40px
+        cursor: pointer
+        &:hover
+          font-weight: $base-bold-font-weight
+      &__slot
+        overflow: hidden
+        transition: height .5s ease-in-out
+  .tarjeta
+    border-radius: 5px
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #0273BC !important
+  color: white
+  
+.linea-tiempo-d__item__number
+  background-color: #F6F6F6 !important
+
+@media (max-width: 412px)
+  .linea-tiempo-d__item__content__title 
+    height: 85px !important  
+
+.bbot
+  border-radius: 0 0 20px 20px  
+
+.bg5
+  background-color: #CCE3F2          
+.bg6
+  background-color: #CFF4F5
+
+.crd
+  width: 100%
+  position: relative
+  &--100
+    height: 100%        
+
+.horizontal-scroll
+  align-items: stretch !important         
+
+
+.fa-chevron-right::before
+  color: #13C6CC 
+
+.fa-chevron-left::before
+  color: #13C6CC   
+
+.bg7
+  position: relative
+  .row, figure, p, h3, h5, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
     position: absolute
-    top: 51%
-    right: 30%
+    margin-left: -48px
+    margin-top: 2rem
+    width: calc( 100% + 96px )
+    height: 40%
+    background: rgb(219,247,248)
+    background: linear-gradient(263deg, rgba(219,247,248,1) 0%, rgba(255,255,255,1) 100%)   
 
+.pasos-a__circle div
+  color: $color-sistema-texto !important
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+.bg8
+  position: relative
+  .row, figure, p, h3, h5, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 97%
+    background-color: #D9EAF5  
 
-  100%
-    transform: translateY(0px)
+.imagen-absolute
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(-12%) translateY(100%)
+  @media (max-width: $bp-max-lg)
+    position: inherit
+    transform: none     
+
+.bg9
+  position: relative
+  .row, figure, p, h3, h5, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 97%
+    background-color: #D9EAF5   
+
+.bg10
+  position: relative
+  .row, figure, p, h3, h5, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 110%       
+    background-image: url('../assets/curso/temas/img55.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top 
+
+.img-infografica__item__numero
+  color: $color-sistema-texto !important
+
+.pb
+  color: #0273BC !important
+
+.tarjeta.color-primario
+  background-color: white 
+  border: 2px solid #0273BC   
+
+.img-infografica.color-primario .img-infografica__item__numero
+  color: white !important
+
+.tarjeta.color-secundario
+  background-color: #0273BC
+
+.colort
+  color: #13C6CC
+
+.tabla-a table
+  min-width: 0px
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  border: 2px solid black  
+
+.slyder-a__bullets__item:hover
+  background-color: #058B8F 
+  box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.3)
+  border-color: #058B8F           
+
+.slyder-a__bullets__item--active
+  background-color: #058B8F !important        
+
+.slyder-a__bullets__item
+  border: 1px solid #058B8F 
+  background-color: #13C6CC 
+
+.bg11
+  background-color: #CFF4F5 !important  
