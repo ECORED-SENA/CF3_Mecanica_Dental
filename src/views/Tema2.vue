@@ -63,7 +63,7 @@
         img.img-a.img-t(src='@/assets/curso/temas/img32.png', alt='')
         .bg5.p-4.crd--100
           h4 Botón  Palatino
-          p Se utiliza para controlar las fuerzas que el profesional realiza al momento la activación de los brackets. 
+          p Se utiliza para controlar las fuerzas que el profesional realiza al momento la activación de los #[i brackets]. 
       .tarjeta.crd.crd--100
         img.img-a.img-t(src='@/assets/curso/temas/img33.png', alt='')
         .bg6.p-4.crd--100
@@ -72,13 +72,13 @@
       .tarjeta.crd.crd--100
         img.img-a.img-t(src='@/assets/curso/temas/img34.png', alt='')
         .bg5.p-4.crd--100
-          h4 Habito de dedo
+          h4 Hábito de dedo
           p Se utiliza para controlar los hábitos de succión y evitar la mal posición de los dientes entre otros.
       .tarjeta.crd.crd--100
         img.img-a.img-t(src='@/assets/curso/temas/img35.png', alt='')
         .bg6.p-4.crd--100
           h4 Aparato de Progenie
-          p Se utiliza para controlar la mordida cruzada anterior o mordida borde a bode en pacientes de clase I esquelética.  
+          p Se utiliza para controlar la mordida cruzada anterior o mordida borde a borde en pacientes de clase I esquelética.  
       .tarjeta.crd.crd--100
         img.img-a.img-t(src='@/assets/curso/temas/img36.png', alt='')
         .bg5.p-4.crd--100

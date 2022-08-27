@@ -11,7 +11,7 @@
         p(data-aos="fade-down") Es importante tener claridad que los dispositivos médicos sobre medida bucal como los aparatos de ortodoncia, se elaboran teniendo en cuenta un conjunto de elementos que, al interactuar en boca, permiten corregir la forma y función del sistema estomatognático, y que el profesional odontólogo, los instala y ajusta periódicamente para modificar la posición de los dientes o tejidos de soporte óseo, corrigiendo maloclusiones y otros defectos dentomaxilares, por tal razón, se hace necesario establecer los requisitos sanitarios que deben cumplir los dispositivos médicos sobre medida bucal y los requisitos para la apertura y funcionamiento de los establecimientos ubicados en el territorio nacional, en donde se fabrican, reparan, dispensan y adaptan.
 
         .cajon.color-acento-contenido.p-4(data-aos="flip-down") 
-          p(data-aos="fade-down").mb-0 Lo anterior  con el fin de proteger la vida y la salud de las personas, así como adoptar los instrumentos para su verificación y corregir las impresiones de orden numérico y referencias en el texto y los anexos de la Resolución 214 de 2022, aclarando que, la presente norma no genera modificaciones sustanciales respecto de lo regulado en aquella y solo se limita a unificar la norma con los ajustes antes detallados en un solo cuerpo normativo, derogando la citada resolución, con el objeto de dar seguridad jurídica y garantizar su debida implementación.             
+          p(data-aos="fade-down").mb-0 Lo anterior  con el fin de proteger la vida y la salud de las personas, así como adoptar los instrumentos para su verificación y corregir las impresiones de orden numérico y referencias en el texto y los anexos de la #[b Resolución 214 de 2022], aclarando que, la presente norma no genera modificaciones sustanciales respecto de lo regulado en aquella y solo se limita a unificar la norma con los ajustes antes detallados en un solo cuerpo normativo, derogando la citada resolución, con el objeto de dar seguridad jurídica y garantizar su debida implementación.             
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img1.png', alt='')
     Separador 
@@ -27,7 +27,7 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
       .row.justify-content-center.align-items-center(titulo="Lineamientos para su funcionamiento")
         .col-lg-8
-          p Los establecimientos  interesados en fabricar y reparar dispositivos médicos sobre medida bucal, una vez inscritos deberán solicitar la autorización de apertura y funcionamiento ante el INVIMA, quien verificará el cumplimiento de los requisitos sanitarios establecidos en los capítulos IV y V de la presente resolución, según corresponda de acuerdo con el procedimiento  que dicha entidad defina dentro de los seis (6) meses siguientes a la expedición del  presente acto administrativo. (Resolución 214 de 2022)
+          p Los establecimientos  interesados en fabricar y reparar dispositivos médicos sobre medida bucal, una vez inscritos deberán solicitar la autorización de apertura y funcionamiento ante el INVIMA, quien verificará el cumplimiento de los requisitos sanitarios establecidos en los #[b capítulos IV y V] de la presente resolución, según corresponda de acuerdo con el procedimiento  que dicha entidad defina dentro de los seis (6) meses siguientes a la expedición del  presente acto administrativo. (Resolución 214 de 2022)
       
         .col-lg-3.my-3
           img.img-a.img-t(src='@/assets/curso/temas/img4.png', alt='')
@@ -47,31 +47,28 @@
             li 
               .lista-ol--cuadro__vineta
                 span.ts 1
-              p.mb-0 Nombre de la persona natural o jurídica, representación legal, indicación del Número de Identificación Tributaria (NIT) para su consulta en el Registro Único Empresarial y Social (RUES).
+              p.mb-0 Nombre de la persona natural o jurídica, representación legal, indicación del Número de Identificación Tributaria (NIT) para su consulta en el Registro Único Empresarial y Social (RUES). 
+                br
+                span Si corresponde a una entidad exceptuada de registro en Cámara de Comercio según el artículo 45 del Decreto 2150 de 19950 el artículo 2.2.2.40.1.3 del Decreto 1074 de 2015, deberá contar con el documento que acredite la existencia y representación legal. 
 
             li 
               .lista-ol--cuadro__vineta
                 span.ts 2
-              p.mb-0 Si corresponde a una entidad exceptuada de registro en Cámara de Comercio según el artículo 45 del Decreto 2150 de 19950 el artículo 2.2.2.40.1.3 del Decreto 1074 de 2015, deberá contar con el documento que acredite la existencia y representación legal. 
-
-            li 
-              .lista-ol--cuadro__vineta
-                span.ts 3
               p.mb-0 Código DANE del departamento y del municipio donde está ubicado el establecimiento. 
 
             li 
               .lista-ol--cuadro__vineta
-                span.ts 4
+                span.ts 3
               p.mb-0 Dirección, teléfono y correo electrónico. 
 
             li 
               .lista-ol--cuadro__vineta
-                span.ts 5
+                span.ts 4
               p.mb-0 Perfil del talento humano. 
 
             li 
               .lista-ol--cuadro__vineta
-                span.ts 6
+                span.ts 5
               p.mb-0 Listado de dispositivos médicos sobre medida bucal que fábrica y repara, identificando su nombre y código Internacional que defina el país.
       
     Separador 
@@ -115,25 +112,25 @@
         .col-lg-4(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img11.png', alt='')
           .img-text.text-center.p-3 
-            p.mb-0 Alginato y siliconas para duplicar modelos.                                     
+            p.mb-0 Resinas de fotocurado y acrílicos para fabricar provisionales.         
         .col-lg-4(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img12.png', alt='')
           .img-text.text-center.p-3 
-            p.mb-0 Alginato y siliconas para duplicar modelos.
+            p.mb-0 Cemento resinado para unir implantes. 
 
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-4(data-aos="zoom-in")
           img.img-a.img-t.bbot(src='@/assets/curso/temas/img13.png', alt='')
           .img-text.text-center.p-3 
-            p.mb-0 Alginato y siliconas para duplicar modelos.        
+            p.mb-0 Hojas de bisturí para pequeños desgastes en los modelos de yeso.       
         .col-lg-4(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img14.png', alt='')
           .img-text.text-center.p-3 
-            p.mb-0 Alginato y siliconas para duplicar modelos.                                     
+            p.mb-0 Cementos temporales para fijar coronas a los modelos de yeso.         
         .col-lg-4(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img15.png', alt='')
           .img-text.text-center.p-3 
-            p.mb-0 Alginato y siliconas para duplicar modelos.
+            p.mb-0 Fresas de alta velocidad para hacer desgastes en coronas de material estético biocompatible y metal.
 
     Separador 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -211,7 +208,7 @@
         LineaTiempoD.color-primario.mb-5
           .row.justify-content-center.align-items-center(numero="1" titulo="Director técnico")
             .col-11
-              p Deberá acreditar como mínimo formación de tecnólogo en mecánica dental, o técnico profesional en mecánica dental, o e técnico laboral en mecánica dental con experiencia de tres (3) años en la fabricación y reparación de dispositivos médicos sobre medida bucal obtenida dentro de un establecimiento de mecánica dental.
+              p Deberá acreditar como mínimo formación de tecnólogo en mecánica dental, o técnico profesional en mecánica dental, o técnico laboral en mecánica dental con experiencia de tres (3) años en la fabricación y reparación de dispositivos médicos sobre medida bucal obtenida dentro de un establecimiento de mecánica dental.
 
               h5.mb-4 En la siguiente infografía se presentan las responsabilidades del director técnico: 
               .titulo-sexto.color-acento-contenido
