@@ -76,8 +76,8 @@
       h2 1.2 Equipamiento 
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-auto.p-0.d-none.d-lg-block 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img7.svg', alt='')
+      .col-auto.p-0.d-none.d-lg-block
+        img.img-a.img-t.media(data-aos="zoom-in")(src='@/assets/curso/temas/img7.svg', alt='')
       .col-11
         p(data-aos="fade-down").mb-0 Cabe resaltar que, para la elaboración de aparatos de ortopedia funcional en los laboratorios, se verificará a partir del nivel de equipamiento de cada establecimiento que fabrique y repare aparatología de ortodoncia sobre medida y cuente, ya sea con tecnología básica y avanzada. El establecimiento deberá contar con los siguientes requisitos de dotación mencionados en el Artículo 18. Requisitos de dotación de la Resolución 214 de 2022.
 
@@ -105,29 +105,29 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.png', alt='')
           
       .row.justify-content-center.align-items-center          
-        .col-lg-4(data-aos="zoom-in")
+        .col-lg-4.col-md-7(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img10.png', alt='')
           .img-text.text-center.p-3 
             p.mb-0 Alginato y siliconas para duplicar modelos.        
-        .col-lg-4(data-aos="zoom-in")
+        .col-lg-4.col-md-7(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img11.png', alt='')
           .img-text.text-center.p-3 
             p.mb-0 Resinas de fotocurado y acrílicos para fabricar provisionales.         
-        .col-lg-4(data-aos="zoom-in")
+        .col-lg-4.col-md-7(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img12.png', alt='')
           .img-text.text-center.p-3 
             p.mb-0 Cemento resinado para unir implantes. 
 
       .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-4(data-aos="zoom-in")
+        .col-lg-4.col-md-7(data-aos="zoom-in")
           img.img-a.img-t.bbot(src='@/assets/curso/temas/img13.png', alt='')
           .img-text.text-center.p-3 
             p.mb-0 Hojas de bisturí para pequeños desgastes en los modelos de yeso.       
-        .col-lg-4(data-aos="zoom-in")
+        .col-lg-4.col-md-7(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img14.png', alt='')
           .img-text.text-center.p-3 
             p.mb-0 Cementos temporales para fijar coronas a los modelos de yeso.         
-        .col-lg-4(data-aos="zoom-in")
+        .col-lg-4.col-md-7(data-aos="zoom-in")
           img.img-a.img-t(src='@/assets/curso/temas/img15.png', alt='')
           .img-text.text-center.p-3 
             p.mb-0 Fresas de alta velocidad para hacer desgastes en coronas de material estético biocompatible y metal.
@@ -144,8 +144,8 @@
           p(data-aos="fade-down").mb-0 Las acciones de inspección, vigilancia y control a los establecimientos que fabrican, reparan, dispensan, adaptan o importan dispositivos médicos sobre medida bucal estarán a cargo del INVIMA y las secretarías de salud según el ámbito de sus competencias, atendiendo lo señalado en la Resolución 1229 de 2013 expedida por este Ministerio, o la norma que la modifique o sustituya.
         p(data-aos="fade-down") Cuando en el ejercicio de las facultades de inspección, vigilancia y control, esas autoridades sanitarias comprueben el incumplimiento de los requisitos y procedimientos establecidos en la presente resolución, adoptarán las medidas sanitarias de seguridad y sanciones de acuerdo con lo señalado en los artículos 576 y 577 de la Ley 9 de 1979. Por lo anterior se tomarán las siguientes medidas:
 
-    .row.mb-5
-      .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
+    .row
+      .col-md-6.my-3(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/img17.svg' alt='AvatarTop')
           .tarjeta.bg3
@@ -169,7 +169,7 @@
                   i.lista-ul__vineta.li1
                   p.mb-0 La congelación o suspensión temporal de la venta o empleo de productos y objetos, mientras se toma una decisión definitiva al respecto.              
 
-      .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
+      .col-md-6.my-3(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/img18.svg' alt='AvatarTop')
           .tarjeta.bg4

@@ -6,6 +6,10 @@
   width: auto
   height: auto  
 
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $color-sistema-texto   
+
+
 .cajon.color-acento-contenido
   background-color: #C3F1F2
 
@@ -187,9 +191,10 @@
   left: 0
   transform: translateX(-12%) translateY(100%)
   @media (max-width: $bp-max-lg)
-    position: inherit
-    transform: none     
-
+    width: inherit    
+  @media (max-width: 960px)
+    
+    transform: translateX(-25%) translateY(100%)
 .bg9
   position: relative
   .row, figure, p, h3, h5, .titulo-sexto.color-primario
@@ -236,7 +241,7 @@
   background-color: #0273BC
 
 .colort
-  color: #13C6CC
+  color: #309DA1
 
 .tabla-a table
   min-width: 0px
@@ -258,3 +263,17 @@
 
 .bg11
   background-color: #CFF4F5 !important  
+
+.media
+  @media (max-width: 1199px)
+    //display: none
+    width: 70px 
+    
+.slyderF-media
+  @media screen and ( max-width: 810px) 
+    margin-left: -6rem !important
+  @media screen and ( max-width: 428px) 
+    margin-left: -3.5rem !important  
+
+.img-m
+  width: inherit

@@ -7,7 +7,7 @@
         span 3
       h1 Anatomía dental
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-7
+      .col-lg-7.my-3
         p(data-aos="fade-down") Uno de los temas importantes para el laboratorista es conocer muy bien la #[b anatomía dental, la nomenclatura, y tipos de dentición], durante la interpretación de la orden de trabajo y posteriormente para la elaboración de los distintos dispositivos. La formación de la anatomía de la boca tiene lugar en las primeras etapas del desarrollo fetal. La boca es importante no solo en el habla y como receptáculo de alimentos, sino que también juega un papel importante en el sistema digestivo. 
         .cajon.color-acento-contenido.p-4(data-aos="flip-down") 
           p(data-aos="fade-down").mb-0 La anatomía normal de la boca incluye la cavidad bucal, que está compuesta por los paladares duro y blando; la mucosa, o tejidos que revisten las secciones superior e inferior de la boca, así como los tejidos que revisten las mejillas internas; la encía que rodea los dientes, la lengua, la úvula, las amígdalas y las aberturas de las glándulas salivales. Las pequeñas bandas de tejido que se extienden desde la parte superior y los lados de la cavidad oral hasta la parte interna de la mejilla y los tejidos del labio superior e inferior se denominan frenillo, en la siguiente figura se pueden visualizar estas partes:           
@@ -58,15 +58,15 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-auto.p-0.d-none.d-lg-block 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img57.svg', alt='')
+        img.img-a.img-t.media(data-aos="zoom-in")(src='@/assets/curso/temas/img57.svg', alt='')
       .col-11
         p(data-aos="fade-down").mb-0 Dentro del funcionamiento del sistema digestivo, la primera etapa o lugar donde comienza la digestión de los alimentos que se comen es la boca, que está formada por la lengua, las glándulas salivales, paladar y dientes. Los dientes tienen las siguientes funciones y características:
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
           h5 Figura 7. 
           span Funciones generales de los dientes
-        img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/img58.svg', alt='')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img58.svg', alt='')
 
     Separador 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -74,12 +74,12 @@
       
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-4
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img59.png', alt='')               
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img59.png', alt='')               
       .col-lg-8
         .row.justify-content-start.align-items-center.mb-3           
           .col-auto.p-0.d-none.d-lg-block.ps-3 
-            img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img60.svg', alt='')
-          .col-10
+            img.img-t.media(data-aos="zoom-in")(src='@/assets/curso/temas/img60.svg', alt='')
+          .col-lg-10
             p(data-aos="fade-down").mb-0 La fisiología dental, llamada también oclusión, se encarga de analizar la forma, posición, número y el desarrollo de los dientes de las personas, incluido los arcos dentarios. La oclusión se define como la forma en que los dientes se unen cuando el maxilar inferior (mandíbula) y el maxilar superior se juntan.
         p(data-aos="fade-down").mb-3 La oclusión normal es deseable ya que permite que las funciones orales trabajen correctamente, proporciona mejor estética y es útil en la prevención de enfermedades. Siempre que no se produce una oclusión normal en la boca, se denomina maloclusión. La maloclusión puede tener un efecto sobre las enfermedades dentales, la masticación, el habla y la estética (especialmente el perfil facial) y otras funciones de la cavidad oral. La maloclusión puede ocurrir por una variedad de razones. Estos pueden ser la herencia, el trauma, enfermedades y hábitos.
 
@@ -125,7 +125,7 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-auto.p-0.d-none.d-lg-block 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img63.svg', alt='')
+        img.img-a.img-t.media(data-aos="zoom-in")(src='@/assets/curso/temas/img63.svg', alt='')
       .col-11
         p(data-aos="fade-down").mb-0 Los dientes empiezan a desarrollarse en el feto, pueden variar en tamaño, forma y su localización en la mandíbula. Estas diferencias permiten que los dientes trabajen juntos para ayudar a masticar, hablar y sonreír. También ayudan a dar la forma y estructura de la cara. Al nacer, las personas típicamente tienen 20 dientes primarios (de bebé), quienes empiezan la etapa de la dentición a los seis meses de edad. Después los dientes se caen en varias ocasiones durante la infancia. Generalmente a la edad de 21 años todos los 32 de los dientes permanentes han salido. (Mounth healthy, s.f.)
 
@@ -171,7 +171,7 @@
 
             thead
               tr
-                th Dientes Superiores
+                th Dientes Inferiores
                 th Erupción
                 th Pérdida
             tbody
@@ -236,10 +236,8 @@
                 td 12-13 años
               tr
                 td.colort Tercer molar (muela del juicio) 
-                td
-              tr
-                td.colort 17-21 años
-                td 
+                td 17-21 años
+
             thead
               tr
                 th Dientes Inferiores
@@ -268,7 +266,7 @@
                 td 7-8 años  
               tr
                 td.colort Incisivo central  
-                td 6-7 años6-7 años
+                td 6-7 años
 
     Separador 
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

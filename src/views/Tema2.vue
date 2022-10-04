@@ -19,86 +19,86 @@
           p(data-aos="fade-down").mb-0 Todos los dispositivos son realizados por el técnico partiendo de la solicitud en una orden de trabajo que envía el odontólogo y posteriormente es el profesional de la odontología quien activa estos aparatos. Algunos de  estos dispositivos son: 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img24.png', alt='')
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img24.png', alt='')
         .bg5.p-4.crd--100
           h4 Placa de Hawley 
-          p La placa de Hawley es un dispositivo que se realiza tras un tratamiento, con el fin de contener los dientes en la posición que logra el profesional. Se confecciona con acrílico, alambres y es removible. 
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img25.png', alt='')
+          p.mb-0 La placa de Hawley es un dispositivo que se realiza tras un tratamiento, con el fin de contener los dientes en la posición que logra el profesional. Se confecciona con acrílico, alambres y es removible. 
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img25.png', alt='')
         .bg6.p-4.crd--100
           h4 Tornillo transversal y plano anterior
-          p El tornillo transversal es uno de los dispositivos que permite realizar la expansión de los arcos y puede llevar como la imagen lo muestra un plano de mordida anterior. Se confecciona con acrílico, alambres y es removible.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img26.png', alt='')
+          p.mb-0 El tornillo transversal es uno de los dispositivos que permite realizar la expansión de los arcos y puede llevar como la imagen lo muestra un plano de mordida anterior. Se confecciona con acrílico, alambres y es removible.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img26.png', alt='')
         .bg5.p-4.crd--100
           h4 Tornillo transversal y ganchos 
-          p El tornillo transversal es uno de los dispositivos que permite realizar la expansión de los arcos y puede llevar como la imagen lo muestra, unos ganchos en alambre. Se confecciona con acrílico, alambres y es removible.    
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img27.png', alt='')
+          p.mb-0 El tornillo transversal es uno de los dispositivos que permite realizar la expansión de los arcos y puede llevar como la imagen lo muestra, unos ganchos en alambre. Se confecciona con acrílico, alambres y es removible.    
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img27.png', alt='')
         .bg6.p-4.crd--100
           h4 Placa de Hawley con  bolideglutor
-          p Aparato que permite al odontólogo que el paciente reeduque la lengua. Se confecciona con acrílico, alambres y es removible.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img28.png', alt='')
+          p.mb-0 Aparato que permite al odontólogo que el paciente reeduque la lengua. Se confecciona con acrílico, alambres y es removible.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img28.png', alt='')
         .bg5.p-4.crd--100
           h4 Tornillo de Bertoni
-          p El tornillo Bertoni es uno de los dispositivos que permite realizar la expansión en tres partes. Se confecciona con acrílico, alambres y es removible.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img29.png', alt='')
+          p.mb-0 El tornillo Bertoni es uno de los dispositivos que permite realizar la expansión en tres partes. Se confecciona con acrílico, alambres y es removible.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img29.png', alt='')
         .bg6.p-4.crd--100
           h4 Tornillo  Hirax
-          p Es un disyuntor que permite expansión rápida del maxilar superior.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img30.png', alt='')
+          p.mb-0 Es un disyuntor que permite expansión rápida del maxilar superior.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img30.png', alt='')
         .bg5.p-4.crd--100
           h4 Quad Helix
-          p Es un aparato de ortodoncia fija y de acción directa que se coloca en la arcada superior en pacientes con dentición mixta o permanente temprana.  
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img31.png', alt='')
+          p.mb-0 Es un aparato de ortodoncia fija y de acción directa que se coloca en la arcada superior en pacientes con dentición mixta o permanente temprana.  
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img31.png', alt='')
         .bg6.p-4.crd--100
           h4 Mantenedor de  espacio fijo
-          p Se utiliza para conservar el espacio de los dientes y evitar la migración para la erupción de los demás.  
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img32.png', alt='')
+          p.mb-0 Se utiliza para conservar el espacio de los dientes y evitar la migración para la erupción de los demás.  
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img32.png', alt='')
         .bg5.p-4.crd--100
           h4 Botón  Palatino
-          p Se utiliza para controlar las fuerzas que el profesional realiza al momento la activación de los #[i brackets]. 
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img33.png', alt='')
+          p.mb-0 Se utiliza para controlar las fuerzas que el profesional realiza al momento la activación de los #[i brackets]. 
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img33.png', alt='')
         .bg6.p-4.crd--100
           h4 Barra transpalatina
-          p Se utiliza para producir un conjunto de fuerzas que permiten mover los molares en tres planos del espacio.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img34.png', alt='')
+          p.mb-0 Se utiliza para producir un conjunto de fuerzas que permiten mover los molares en tres planos del espacio.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img34.png', alt='')
         .bg5.p-4.crd--100
           h4 Hábito de dedo
-          p Se utiliza para controlar los hábitos de succión y evitar la mal posición de los dientes entre otros.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img35.png', alt='')
+          p.mb-0 Se utiliza para controlar los hábitos de succión y evitar la mal posición de los dientes entre otros.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img35.png', alt='')
         .bg6.p-4.crd--100
           h4 Aparato de Progenie
-          p Se utiliza para controlar la mordida cruzada anterior o mordida borde a borde en pacientes de clase I esquelética.  
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img36.png', alt='')
+          p.mb-0 Se utiliza para controlar la mordida cruzada anterior o mordida borde a borde en pacientes de clase I esquelética.  
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img36.png', alt='')
         .bg5.p-4.crd--100
           h4 Bionator
-          p Se utiliza para controlar el crecimiento mandibular y controlar la erupción dental.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img37.png', alt='')
+          p.mb-0 Se utiliza para controlar el crecimiento mandibular y controlar la erupción dental.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img37.png', alt='')
         .bg6.p-4.crd--100
           h4 Bimler
-          p Es un aparato bimaxilar que permite movimientos de lateralidad y es utilizado en maloclusiones clase II y III.
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img38.png', alt='')
+          p.mb-0 Es un aparato bimaxilar que permite movimientos de lateralidad y es utilizado en maloclusiones clase II y III.
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img38.png', alt='')
         .bg5.p-4.crd--100
           h4 Frankel
-          p Es un aparato bimaxilar regulador de la función de apoyo tisular.    
-      .tarjeta.crd.crd--100
-        img.img-a.img-t(src='@/assets/curso/temas/img39.png', alt='')
+          p.mb-0 Es un aparato bimaxilar regulador de la función de apoyo tisular.    
+      .tarjeta.crd.crd--100.slyderF-media
+        img.img-a.img-t.img-m(src='@/assets/curso/temas/img39.png', alt='')
         .bg6.p-4.crd--100
           h4 Simoes Network
-          p Los SN son también aparatos de Ortopedia funcional que pertenecen al grupo de los híbridos.
+          p.mb-0 Los SN son también aparatos de Ortopedia funcional que pertenecen al grupo de los híbridos.
 
     Separador 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -174,9 +174,9 @@
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img45.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-4
+            .col-lg-4.order-1
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img46.png', alt='')            
-            .col-lg-8.text-start
+            .col-lg-8.text-start.order-lg-2
               h4(data-aos="fade-right") 1902
               p(data-aos="fade-right") El monobloque siguió en 1902. Diseñado por Pierre Robin, el aparato fue diseñado para tratar a niños con síndrome de glosoptosis. Fue el primer aparato en reposicionar la mandíbula e incluir un tornillo de expansión para expandir el arco.
 
@@ -187,9 +187,9 @@
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img47.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-4
+            .col-lg-4.order-1
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img48.png', alt='')            
-            .col-lg-8.text-start
+            .col-lg-8.text-start.order-lg-2
               h4(data-aos="fade-right") 1940
               p(data-aos="fade-right") Los aparatos funcionales ganaron popularidad en Europa después de la Segunda Guerra Mundial, ya que los metales preciosos utilizados para los aparatos fijos eran difíciles de obtener. Muchos diseños fueron producidos en las décadas de 1940 y 1950, incluidos los de Bimler, Schwarz, Stockfish y Frankel.
           .row.justify-content-center.align-items-center
@@ -199,9 +199,9 @@
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img49.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-4
+            .col-lg-4.order-1
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img50.png', alt='')            
-            .col-lg-8.text-start
+            .col-lg-8.text-start.order-lg-2
               h4(data-aos="fade-right") 1974
               p(data-aos="fade-right") El Activador Harvold fue desarrollado por Egil Peter Harvold, un dentista noruego que más tarde se mudó a Estados Unidos, en 1974. El activador es una modificación del dispositivo Andresen. Las principales diferencias están en la gran abertura en el aparato y en la relación del aparato con los dientes.
           .row.justify-content-center.align-items-center
@@ -215,13 +215,15 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.3 Función
     .bg8
-      .row.justify-content-start.align-items-center.d-none.d-lg-block 
-        .col-lg-5
+      .row.justify-content-start.align-items-center
+        .col-sm-10.d-block.d-md-none.px-0
+          img(data-aos="zoom-in")(src='@/assets/curso/temas/img52.png', alt='')         
+        .col-lg-5.col-md-4.d-none.d-md-block
           .tarjeta.position-relative(data-aos="flip-down")
             .imagen-absolute
               img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img52.png', alt='') 
       .row.justify-content-end.align-items-center                     
-        .col-lg-7.py-4
+        .col-lg-7.col-md-9.py-4
           p(data-aos="fade-down") Los aparatos de ortodoncia se elaboran teniendo en cuenta un conjunto de elementos que, al interactuar en boca, permiten corregir la forma y función del sistema estomatognático, y que el profesional odontólogo, los instala y ajusta periódicamente para modificar la posición de los dientes o tejidos de soporte óseo, corrigiendo maloclusiones y otros defectos dentomaxilares. Además, pueden provocar los siguientes cambios:
           ul.lista-ul--color.ps-3
             li 
@@ -243,7 +245,7 @@
 
     .bg9      
       .row.justify-content-center.align-items-center.py-5           
-        .col-lg-4.d-none.d-lg-block
+        .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img53.svg', alt='')
         .col-lg-8
           p(data-aos="fade-down") Desde el momento en que el laboratorista recibe los modelos de trabajo y la prescripción clínica, se debe tener en cuenta: 

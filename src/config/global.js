@@ -285,12 +285,10 @@ export default {
     {
       referencia:
         'Caero Bernal, M. (2009). Ortodoncia <i>dental y sus tipos</i>. El Cid Editor | apuntes.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/28232',
     },
     {
       referencia:
         'Esponda Vila, R. (2019). <i>Anatomía dental</i>. Universidad Nacional Autónoma de México (UNAM). ',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/187393',
     },
     {
       referencia: 'Ilerna. (2019). Nomenclatura dentaria.',
@@ -300,12 +298,10 @@ export default {
     {
       referencia:
         'Gill, D. & B. Naini, F. (2014). <i>Ortodoncia: principios y práctica</i>. Editorial El Manual Moderno.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/39664',
     },
     {
       referencia:
         'Matiz Cuervo, J. (2014). <i>Temas de rehabilitación oral: acrílicos dentales. 1: Clínica-laboratorio.</i> Ecoe Ediciones.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/122433',
     },
     {
       referencia:
@@ -321,22 +317,18 @@ export default {
     {
       referencia:
         'Navas Cuenca, E. (Coord.). (2018). <i>Prevención de riesgos laborales, sector sanitario: riesgos específicos del trabajo de protésicos dentales (2a. ed.)</i>. Editorial ICB.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/111411',
     },
     {
       referencia:
         'Nayib Radi L. J. & Álvarez G. G. J. (2017). </i>Aspectos claves: alteraciones del desarrollo dental.<i> Fondo Editorial CIB.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/186732',
     },
     {
       referencia:
         'Riojas, M. (2014). <i>Anatomía dental (3a. ed.)</i>. Editorial El Manual Moderno.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/39706',
     },
     {
       referencia:
         'Uribe Restrepo, G. A. & Uribe Trespalacios, P. (2019). <i>Fundamentos de odontología: ortodoncia: teoría y clínica "énfasis en biomecánica" (3a. ed.)</i>. Fondo Editorial CIB.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/186719',
     },
     {
       referencia:
@@ -395,8 +387,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
