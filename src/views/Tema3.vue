@@ -84,7 +84,7 @@
         p(data-aos="fade-down").mb-3 La oclusión normal es deseable ya que permite que las funciones orales trabajen correctamente, proporciona mejor estética y es útil en la prevención de enfermedades. Siempre que no se produce una oclusión normal en la boca, se denomina maloclusión. La maloclusión puede tener un efecto sobre las enfermedades dentales, la masticación, el habla y la estética (especialmente el perfil facial) y otras funciones de la cavidad oral. La maloclusión puede ocurrir por una variedad de razones. Estos pueden ser la herencia, el trauma, enfermedades y hábitos.
 
         .cajon.color-acento-contenido.p-4(data-aos="flip-down") 
-          p(data-aos="fade-down").mb-0 Todas las personas se desarrollan de diferentes maneras y en diferentes momentos y los dientes no son una excepción. Por lo general, las personas tienen dos juegos de dientes en su vida, un juego de 20 dientes primarios (de leche) que luego se reemplazan por 32 dientes permanentes (adultos) Hay 3 fases que se utilizan para trazar en qué etapa se encuentra una persona en el desarrollo de sus dientes: etapas de dentición decidua, mixta y permanente.
+          p(data-aos="fade-down").mb-0 Todas las personas se desarrollan de diferentes maneras y en diferentes momentos y los dientes no son una excepción. Por lo general, las personas tienen dos juegos de dientes en su vida, un juego de 20 dientes primarios (de leche) que luego se reemplazan por 32 dientes permanentes (adultos). Hay 3 fases que se utilizan para trazar en qué etapa se encuentra una persona en el desarrollo de sus dientes: etapas de dentición decidua, mixta y permanente.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7

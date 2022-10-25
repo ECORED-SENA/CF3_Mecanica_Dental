@@ -49,7 +49,7 @@
                 span.ts 1
               p.mb-0 Nombre de la persona natural o jurídica, representación legal, indicación del Número de Identificación Tributaria (NIT) para su consulta en el Registro Único Empresarial y Social (RUES). 
                 br
-                span Si corresponde a una entidad exceptuada de registro en Cámara de Comercio según el artículo 45 del Decreto 2150 de 19950 el artículo 2.2.2.40.1.3 del Decreto 1074 de 2015, deberá contar con el documento que acredite la existencia y representación legal. 
+                span Si corresponde a una entidad exceptuada de registro en Cámara de Comercio según el artículo 45 del Decreto 2150 de 1995 el artículo 2.2.2.40.1.3 del Decreto 1074 de 2015, deberá contar con el documento que acredite la existencia y representación legal. 
 
             li 
               .lista-ol--cuadro__vineta

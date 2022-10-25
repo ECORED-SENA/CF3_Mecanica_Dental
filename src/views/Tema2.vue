@@ -73,7 +73,7 @@
         img.img-a.img-t.img-m(src='@/assets/curso/temas/img34.png', alt='')
         .bg5.p-4.crd--100
           h4 Hábito de dedo
-          p.mb-0 Se utiliza para controlar los hábitos de succión y evitar la mal posición de los dientes entre otros.
+          p.mb-0 Se utiliza para controlar los hábitos de succión y evitar la mal posición de los dientes, entre otros.
       .tarjeta.crd.crd--100.slyderF-media
         img.img-a.img-t.img-m(src='@/assets/curso/temas/img35.png', alt='')
         .bg6.p-4.crd--100
@@ -121,7 +121,7 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
-        h5(data-aos="fade-down").text-center Durante la función muscular se generan estímulos de crecimiento y desarrollo, los que serán fisiológicos o no según el tipo,intensidad,dirección y sentido de las fuerzas desarrolladas en dichas funciones. Estos son: 
+        h5(data-aos="fade-down").text-center Durante la función muscular se generan estímulos de crecimiento y desarrollo, los que serán fisiológicos o no según el tipo, intensidad, dirección y sentido de las fuerzas desarrolladas en dichas funciones. Estos son: 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10(data-aos="fade-left")
@@ -183,7 +183,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8
               h4(data-aos="fade-left") 1909
-              p(data-aos="fade-left") En 1909 el dentista danés Viggo Andresen retiró el aparato fijo de su hija, reemplazandolo por un retenedor tipo Hawley al que agregó un alambre inferior en forma de arco para mover la mandíbula. Funcionó en la corrección de su maloclusión de clase II y así comenzó el interés de Andresen en desarrollar un aparato funcional.
+              p(data-aos="fade-left") En 1909 el dentista danés Viggo Andresen retiró el aparato fijo de su hija, reemplazándolo por un retenedor tipo Hawley al que agregó un alambre inferior en forma de arco para mover la mandíbula. Funcionó en la corrección de su maloclusión de clase II y así comenzó el interés de Andresen en desarrollar un aparato funcional.
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img47.png', alt='')
           .row.justify-content-center.align-items-center
